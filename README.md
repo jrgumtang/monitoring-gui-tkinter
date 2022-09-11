@@ -1,4 +1,4 @@
-# monitoring-gui-tkinter
+# Monitoring GUI
 Sensor GUI Display
 
 This is a Python Tkinter based application.
